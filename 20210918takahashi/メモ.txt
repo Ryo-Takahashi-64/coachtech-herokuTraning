@@ -1,0 +1,19 @@
+
+■heroku configログ
+
+C:\xampp\htdocs\herokutest>heroku config
+ »   Warning: heroku update available from 7.53.0 to 7.59.0.
+=== arcane-lake-35715 Config Vars
+APP_KEY:              base64:6xfOjNmkEZi1eEajyvu+/w9TI2pVKh6c2ucf4R30XmU=
+CLEARDB_DATABASE_URL: mysql://bca034ee3a9bbc:523860aa@us-cdbr-east-04.cleardb.com/heroku_af1d4b63422b791?reconnect=true
+DB_DATABASE:          heroku_af1d4b63422b791
+DB_HOST:              us-cdbr-east-04.cleardb.com
+DB_PASSWORD:          523860aa
+DB_USERNAME:          bca034ee3a9bbc
+LOG_CHANNEL:          errorlog
+
+
+■herokutest URL
+https://arcane-lake-35715.herokuapp.com/
+
+

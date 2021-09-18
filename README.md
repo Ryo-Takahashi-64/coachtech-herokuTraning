@@ -1,1 +1,1 @@
-# coachtech-herokuTraning
+# coachtech-Heroku 送付用
